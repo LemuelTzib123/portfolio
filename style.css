@@ -94,8 +94,8 @@ border-radius: 50%;
 }
 
 .about {
-padding: 60px 10%;
-background: #fff;
+padding: 80px 10%;
+background: #A4CAE9;
 }
 
 .about h2 {
@@ -111,7 +111,7 @@ color: #555;
 
 
 .skills {
-padding: 60px 10%;
+padding: 80px 10%;
 background-color: #f5f5f5;
 text-align: center;
 }
@@ -164,8 +164,8 @@ color: #39597E;
 
 
 .projects {
-padding: 60px 10%;
-background: #fff;
+padding: 80px 10%;
+background: #A4CAE9;
 text-align: center;
 }
 
